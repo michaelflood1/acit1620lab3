@@ -92,6 +92,9 @@ footer {
         aside {
         float: top;
         }
+        nav {
+            display: flex
+        }
 }
 
 
