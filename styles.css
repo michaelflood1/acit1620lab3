@@ -88,16 +88,14 @@ footer {
 
 }
 @media screen and (max-width: 600px) {
-    aside {
-        float: top;
-    }
+  
     ul {
         display: flex;
         flex-direction: row;
         border-left: 1px solid black;
         height: 100px;
         margin-bottom: 0;
-        margin-right: 100%;
+        margin-right: 1rem;
     }
 }
     
