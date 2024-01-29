@@ -92,8 +92,9 @@ footer {
         float: top;
         }
         ul {
-        display: flex;   
-         margin-right: 10px;
+        display: flex; 
+        row-gap: 10px;
+         margin-right: 100%;
          margin-bottom: 0;
         }
         footer {
