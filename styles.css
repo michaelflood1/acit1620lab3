@@ -100,11 +100,12 @@ footer {
         li {
             margin-right: 100%;
             margin-bottom: 0;
+            margin-top: 5;
             border-left: 1px solid black;
             height: 40px;
         }
         main {
-            position: left;
+            position: left; display: flex;
         }
         img {
             position: left;
