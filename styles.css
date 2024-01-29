@@ -97,6 +97,9 @@ footer {
             margin-bottom: 0;
             margin-right: 100%;
         }
+        li {
+            margin-right: 5px;
+        }
         
 }
 
