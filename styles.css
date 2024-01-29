@@ -101,7 +101,8 @@ footer {
         }
         li {
             margin-right: 10px;
-            border-right: 5px; height: 10px;
+            border-left: 1px solid black;
+            height: 100px;
         }
         
 }
