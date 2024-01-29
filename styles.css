@@ -89,11 +89,7 @@ footer {
 }
 @media screen and (max-width: 600px) {
         aside {
-            float: top;
-            display: flex;
-            margin-bottom: 0;
-            margin-right: 100%
-        }
+            
     
 }
     
