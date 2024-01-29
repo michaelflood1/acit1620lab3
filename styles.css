@@ -89,8 +89,11 @@ footer {
 }
 @media screen and (max-width: 600px) {
         aside {
-            
-    
+         display: inline;   
+         margin-right: 100%;
+         margin-bottom: 0;
+
+}
 }
     
 
