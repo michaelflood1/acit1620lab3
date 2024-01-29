@@ -92,9 +92,12 @@ footer {
         aside {
         float: top;
         }
-        nav {
-            display: flex
+        ul {
+            display: flex;
+            margin-bottom: 0;
+            margin-right: 100%;
         }
+        
 }
 
 
