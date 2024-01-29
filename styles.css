@@ -92,19 +92,6 @@ footer {
         aside {
         float: top;
         }
-        ul {
-        display: flex; 
-        }
-        footer {
-            height: 10px;
-        }
-        li {
-            margin-right: 100%;
-            border-left: 1px solid black;
-            height: 40px;
-        }
-        
-}
     
 
 
