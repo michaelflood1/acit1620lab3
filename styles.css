@@ -100,7 +100,8 @@ footer {
         }
         li {
             margin-right: 20px;
-            border-left: #000; height: 10px;
+            border-left: 1px solid black;
+    height: 100px;
             }
 
 
