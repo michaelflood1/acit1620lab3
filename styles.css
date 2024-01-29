@@ -90,16 +90,11 @@ footer {
 @media screen and (max-width: 600px) {
         aside {
             float: top;
+            display: flex;
+            margin-bottom: 0;
+            margin-right: 100%
         }
-    ul {
-        display: flex;
-        flex-direction: row;
-        border-left: 1px solid black;
-        gap: 10px;
-        height: 100px;
-        margin-bottom: 0;
-        margin-right: 10px;
-    }
+    
 }
     
 
