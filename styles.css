@@ -95,9 +95,10 @@ footer {
         display: flex;
         flex-direction: row;
         border-left: 1px solid black;
+        gap: 10px;
         height: 100px;
         margin-bottom: 0;
-        margin-right: 100px;
+        margin-right: 10px;
     }
 }
     
