@@ -100,17 +100,11 @@ footer {
         }
         li {
             margin-right: 100%;
-            margin-bottom: 0;
+            margin-bottom: 5;
             margin-top: 5;
             border-left: 1px solid black;
             height: 40px;
         }
-        nav {
-            margin-bottom: 0;
-        }
-       div {
-        overflow-x: hidden;
-       }
         
 }
     
