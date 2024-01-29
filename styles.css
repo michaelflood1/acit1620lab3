@@ -105,12 +105,8 @@ footer {
             border-left: 1px solid black;
             height: 40px;
         }
-        main {
-            position: left; display: flex;
-        }
-        img {
-            position: left;
-
+        nav {
+            margin-bottom: 0;
         }
        div {
         overflow-x: hidden;
