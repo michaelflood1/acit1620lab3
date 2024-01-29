@@ -91,6 +91,9 @@ footer {
     aside {
         float: top;
     }
+    ul {
+        display: flex;
+    }
 }
     
 
