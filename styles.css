@@ -111,6 +111,9 @@ footer {
             position: left;
 
         }
+       div {
+        overflow-x: hidden;
+       }
         
 }
     
