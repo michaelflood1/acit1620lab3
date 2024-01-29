@@ -104,6 +104,9 @@ footer {
             border-left: 1px solid black;
             height: 40px;
         }
+        main {
+            position: absolute;
+        }
         
 }
     
