@@ -100,10 +100,7 @@ footer {
         }
         li {
             margin-right: 20px;
-            border-right: #000;
-            border-style: solid; height: 10px;
-            li :last-child {
-                border: none;
+            border-left: #000; height: 10px;
             }
 
 
