@@ -105,7 +105,11 @@ footer {
             height: 40px;
         }
         main {
-            position: absolute;
+            position: left;
+        }
+        img {
+            position: left;
+
         }
         
 }
